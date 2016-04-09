@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hulaxiaodai.github.io/sitemap.xml 
